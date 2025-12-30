@@ -119,5 +119,10 @@ If you use this work, please cite our papers:
 }
 ```
 
+## Related Repositories
+
+This project is part of a broader research initiative detailed in the PhD Thesis. For additional scripts, implementations, and the full thesis context, please refer to:
+- **[Phd-Thesis-Embedded-Yolov5](https://github.com/LuizCMarquesJr/Phd-Thesis-Embedded-Yolov5)**: Contains the comprehensive scripts and implementation of "Redes Neurais Profundas com Redução de Pesos para uso em Hardwares de Baixo Custo Aplicadas à Identificação de Espécies Invasoras em..."
+
 ## License
 This project is licensed under the GPL-3.0 License.
