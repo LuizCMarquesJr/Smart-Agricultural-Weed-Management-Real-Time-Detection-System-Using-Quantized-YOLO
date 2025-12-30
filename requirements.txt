@@ -1,0 +1,22 @@
+# Core
+torch>=1.10.0
+torchvision>=0.11.0
+opencv-python>=4.5.4
+pandas
+matplotlib
+seaborn
+scipy
+
+# YOLOv5 dependencies (common subset)
+PyYAML>=5.3.1
+requests>=2.23.0
+tqdm>=4.41.0
+tensorboard>=2.4.1
+
+# Dataset
+osfclient>=0.0.5
+
+# ONNX / Quantization
+onnx>=1.10.0
+onnxruntime>=1.10.0
+# onnxruntime-gpu # Uncomment if using GPU for inference
